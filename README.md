@@ -115,8 +115,13 @@ check point == 2021/07/05 최종 점검까지 각자의 장점을 기준으로 �
 
 박정열: https://github.com/qkrwjdduf159
 
-웨더고 예시(대전)
-![대전](https://user-images.githubusercontent.com/81727895/124152967-ef6dca00-dace-11eb-978c-57278797be72.PNG)
+
+
+웨더고 예시(대전 초안)
+
+![대전](https://user-images.githubusercontent.com/81727895/124153612-92264880-dacf-11eb-8eff-564b467c4f9e.PNG)
+
+
 
 ![대전2](https://user-images.githubusercontent.com/81727895/124153026-01e80380-dacf-11eb-86af-d17e2fd56ad8.PNG)
 
